@@ -1,0 +1,17 @@
+mistune>=2.0.0
+pyyaml>=6.0
+click>=8.0.0
+ebooklib>=0.17.0
+weasyprint>=54.0
+python-docx>=0.8.11
+
+[dev]
+pytest>=6.0.0
+pytest-cov>=2.10.0
+black>=22.0.0
+flake8>=4.0.0
+isort>=5.0.0
+
+[test]
+pytest>=6.0.0
+pytest-cov>=2.10.0

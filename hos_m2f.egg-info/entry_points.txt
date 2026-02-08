@@ -1,0 +1,3 @@
+[console_scripts]
+hos = hos_m2f.cli:main
+hos-m2f = hos_m2f.cli:main
